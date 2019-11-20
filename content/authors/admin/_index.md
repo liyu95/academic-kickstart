@@ -15,7 +15,9 @@ role: Ph.D. student in CS
 # Organizations/Affiliations
 organizations:
 - name: KAUST
-  url: "www.kaust.edu.sa"
+  url: "https://www.kaust.edu.sa"
+- name: SFB
+  url: "https://sfb.kaust.edu.sa"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -61,7 +63,7 @@ social:
   link: https://www.researchgate.net/profile/Yu_Li110
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/cv-Yu_Li.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
