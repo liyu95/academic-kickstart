@@ -13,6 +13,3 @@ header:
   caption: ""
   image: ""
 ---
-
-
-This is the content!
